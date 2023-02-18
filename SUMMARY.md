@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Eco ID Playground - Handbook](README.md)
-* [About Eco ID Playground](about-eco-id-playground.md)
+* [About Eco ID Playground](about-eco-id-playground/README.md)
+  * [Eco ID: A Decentralized and Permissionless Identity Primitive](about-eco-id-playground/eco-id-a-decentralized-and-permissionless-identity-primitive.md)
 * [How to use Eco ID Playground](how-to-use-eco-id-playground/README.md)
   * [How to start](how-to-use-eco-id-playground/how-to-start.md)
   * [🔎 Verifier](how-to-use-eco-id-playground/verifier.md)
