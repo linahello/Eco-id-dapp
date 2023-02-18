@@ -1,4 +1,4 @@
-# Receiver
+# 📩 Receiver
 
 If you are a receiver, you must first wait for the verifier to give you the attestation file, then go to [https://eco-id-playground.vercel.app/](https://eco-id-playground.vercel.app/) and complete the following requirements:
 

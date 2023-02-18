@@ -1,6 +1,8 @@
 # How to start
 
-Go to [https://eco-id-playground.vercel.app/](https://eco-id-playground.vercel.app/)
+🎬 Go to [https://eco-id-playground.vercel.app/](https://eco-id-playground.vercel.app/)\
+\
+Welcome to Eco ID Playground ! Everything is going to happen here 😉
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-02-17 at 18.50.06.png" alt=""><figcaption></figcaption></figure>
 
