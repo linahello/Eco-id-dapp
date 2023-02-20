@@ -7,7 +7,7 @@
   * [How to start](how-to-use-eco-id-playground/how-to-start.md)
   * [🔎 Verifier](how-to-use-eco-id-playground/verifier.md)
   * [📩 Receiver](how-to-use-eco-id-playground/receiver.md)
-  * [🎁 Third Part](how-to-use-eco-id-playground/third-part.md)
+  * [🎁 Third Party](how-to-use-eco-id-playground/third-party.md)
 * [What is Eco ?](what-is-eco.md)
 * [Governance in Eco](governance-in-eco.md)
 * [Community Guidelines](community-guidelines.md)
