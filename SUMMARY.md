@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Eco ID Playground - Handbook](README.md)
-* [What is Eco ?](what-is-eco/README.md)
-  * [Governance in Eco](what-is-eco/governance-in-eco.md)
+* [What is Eco ?](what-is-eco.md)
+  * [Governance in Eco](governance-in-eco.md)
 * [About Eco ID](about-eco-id/README.md)
-  * [Eco ID: A Decentralized and Permissionless Identity Primitive](about-eco-id/eco-id-a-decentralized-and-permissionless-identity-primitive.md)
+  * [Eco ID: A Decentralized and Permissionless Identity Primitive](about-eco-id-playground/eco-id-a-decentralized-and-permissionless-identity-primitive.md)
 * [About Eco ID Playground](about-eco-id-playground/README.md)
   * [Goals](about-eco-id-playground/goals.md)
   * [MVP features](about-eco-id-playground/mvp-features.md)
